@@ -1,0 +1,18 @@
+.home {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+
+header {
+    background-color: #67D1FE;
+    padding: 15px 20px;
+    height: 45px;
+    line-height: 1px;
+}
